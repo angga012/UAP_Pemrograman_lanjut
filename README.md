@@ -114,7 +114,7 @@ File terkait:
 
 ---
 
-### 2️. Read (Lihat Data Kontak)
+### 2. Read (Lihat Data Kontak)
 
 * Data ditampilkan dalam bentuk **JTable**
 * Kolom:
@@ -130,7 +130,7 @@ File terkait:
 
 ---
 
-### 3️. Update (Edit Kontak)
+### 3. Update (Edit Kontak)
 
 * Edit data kontak yang dipilih dari tabel
 * Data lama dimuat otomatis ke form
@@ -143,7 +143,7 @@ File terkait:
 
 ---
 
-### 4️. Delete (Hapus Kontak)
+### 4. Delete (Hapus Kontak)
 
 * Menghapus kontak terpilih
 * Konfirmasi sebelum penghapusan
